@@ -1,6 +1,9 @@
 # Multi-task Recommender System
 ### ***(Under Development)***
 
+### ***[Click here to Open NoteBook to see Approach Code](https://github.com/DebopamParam/MultiTask-Recommender-System-using-Tensorflow-Recommenders/blob/main/Multi-Task%20Recommender.ipynb)***
+![image](https://github.com/user-attachments/assets/1988bd0a-7857-4f95-8cee-cc4c2cd1e665)
+
 This project implements a multi-task recommender system using TensorFlow Recommenders (TFRS). It's based on the TensorFlow Recommenders example for building a multi-objective recommender for Movielens, using both implicit (movie watches) and explicit signals (ratings).
 
 ## Project Structure
