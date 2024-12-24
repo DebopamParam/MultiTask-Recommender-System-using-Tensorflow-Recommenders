@@ -1,0 +1,4 @@
+tensorflow
+tensorflow-recommenders
+tensorflow-datasets
+pyyaml

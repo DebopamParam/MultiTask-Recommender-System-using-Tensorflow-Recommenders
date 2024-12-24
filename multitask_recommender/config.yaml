@@ -1,0 +1,6 @@
+embedding_dimension: 32
+rating_weight: 1.0
+retrieval_weight: 1.0
+learning_rate: 0.1
+epochs: 3
+batch_size: 8192
