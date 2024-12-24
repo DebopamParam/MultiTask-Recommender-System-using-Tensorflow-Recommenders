@@ -1,4 +1,4 @@
-# Multi-task Recommender System
+# Multi-task Recommender System Using Tensorflow Recommenders
 ### ***(Under Development)***
 
 ### ***[Click here to Open NoteBook to see Approach Code](https://github.com/DebopamParam/MultiTask-Recommender-System-using-Tensorflow-Recommenders/blob/main/Multi-Task%20Recommender.ipynb)***
